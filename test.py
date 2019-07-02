@@ -10,4 +10,4 @@ score.sort()
 if score[1]//10 in dic:
     print(dic[score[1]//10])
 else:
-    print("差")
+    print("不及格")
